@@ -1,5 +1,5 @@
 
-# 🚀 Explore Kuberada Blog Labs Repository!
+# 🚀 Explore Kuberada Blog Labs Repository!💛
 
 Welcome to our Kuberada Blog Labs Repository – the go-to place for hands-on learning in Kubernetes and DevOps!
 
